@@ -1,0 +1,31 @@
+.collegelogo {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.headline {
+  color: red;
+  text-align: center;
+  text-transform: capitalize;
+}
+.covidimage {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.home {
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
+.home1 {
+  color: black;
+}
+.home1:hover {
+  color: red;
+  background: black;
+}
